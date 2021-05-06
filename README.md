@@ -1,4 +1,4 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shahzeb.khan@sap.com&show_icons=true&bg_color=45,dfa8e4,634975&border_color=634975&text_color=ffffff&icon_color=000000&title_color=ffffff)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shahzeb79&show_icons=true&bg_color=45,dfa8e4,634975&border_color=634975&text_color=ffffff&icon_color=000000&title_color=ffffff)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahzeb79&langs_count=5&layout=compact&bg_color=45,dfa8e4,634975&border_color=634975&text_color=ffffff&icon_color=000000&title_color=ffffff)
 
